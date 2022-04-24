@@ -1,4 +1,4 @@
-# solving-program-problem-
+# solving-program-problem
 Here are some of my experience with solving program problems
 <table>
    <tr>
