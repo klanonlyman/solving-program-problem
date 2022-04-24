@@ -11,7 +11,6 @@ Here are some of my experience with solving program problems
       <td>Triangle</td>
       <td>Triangle.pptx</td>
       <td>Triangle.cpp</td>
-      <td>Time complexity</td>
       <td>O(log(2*D))</td>
    </tr>
    <tr>
