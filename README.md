@@ -12,8 +12,8 @@ Here are some of my experience with solving program problems
       <td>O(log(2*D))</td>
    </tr>
    <tr>
-      <td>Football Players</td>
-      <td>C++</td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Football%20Players/Football%20Players.md">Football Players</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Football%20Players/Football%20Players.md">C++</a></td>
       <td>O(Nlog(N))</td>
    </tr>
    <tr>
