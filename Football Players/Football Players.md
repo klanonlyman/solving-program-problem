@@ -8,7 +8,7 @@
 <h3>Input</h3>
 <p>
   The first line contain a single interger n -- the number of players . in the next n lines , 
-  each line contain two integers sti and spi, representing strength and speed of player Pi (1 <= i <= n).
+  each line contain two integers sti and spi, representing strength and speed of player Pi (1 <= i <= n).</br>
   For all test data , it is guaranteed:
     <ul>
       <li>
@@ -25,18 +25,18 @@
 </p>
 <h3>Problem sovling skills</h3>
 <p>
-  First, sort the value of each sti. (big to small)
-  Second, sort the spi that each same values of sti. (big to small)
-  Third, declare max_ST=ST[0], max_SP=SP[0]
-  Forth, iterate each ST and SP
-  Fifth, if max_ST > ST[i] and max_SP >SP[i] then Answer+=1
-  Sixth, if max_Sp>SP[i] then max_SP=SP[i]
+  First, sort the value of each sti. (big to small)</br>
+  Second, sort the spi that each same values of sti. (big to small)</br>
+  Third, declare max_ST=ST[0], max_SP=SP[0]</br>
+  Forth, iterate each ST and SP</br>
+  Fifth, if max_ST > ST[i] and max_SP >SP[i] then Answer+=1</br>
+  Sixth, if max_Sp>SP[i] then max_SP=SP[i]</br>
 </p>
 <h3>Time complexity analysis</h3>
 <p>
-  First, the sorting need O(nlogn).
-  Second, the sorting need O(nlogn).
-  Third, declare O(1),
-  Forth, iterate each ST and SP , it need O(N).
-  Sum all, O(nlogn)+O(nlogn)+O(1)+O(N) = O(nlogn).
+  First, the sorting need O(nlogn).</br>
+  Second, the sorting need O(nlogn).</br>
+  Third, declare O(1). </br>
+  Forth, iterate each ST and SP , it need O(N).</br>
+  Finally, O(nlogn)+O(nlogn)+O(1)+O(N) = O(nlogn).</br>
 </p>
