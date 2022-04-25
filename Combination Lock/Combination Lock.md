@@ -1,9 +1,9 @@
 <h3>Description</h3>
 <p>
    You have found that the treasure you locked in your dorm closet has beed stolen , and obviously the password has beed leaked, 
-  so oyu need to change the password of the combination lock.</br>
+  so oyu need to change the password of the combination lock.
   The original password S consists of lowercase letters , each letter on the lock is an rotating disc with inscribed letters from
-   a to z.</br>
+   a to z.
   To change from th eoriginal password S to the new password T , you have to pay an maintenance fee based on the operations you tell.</br>
   There are three types of operation you can perform:
   <ul>
