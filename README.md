@@ -8,7 +8,7 @@ Here are some of my experience with solving program problems
    </tr>
    <tr>
       <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Triangle/Triangle.md">Triangle</a></td>
-      <td>C++</td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Triangle/triangle.cpp">C++</a></td>
       <td>O(log(2*D))</td>
    </tr>
    <tr>
