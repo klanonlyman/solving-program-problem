@@ -21,9 +21,9 @@
 </p>
 <h3>Problem-solving skills</h3>
 <p>
-  blue point is treasure.
-  yellow point is current position.
-  orange lines represent that current position will be infect with blue points. 
+  blue point is treasure.</br>
+  yellow point is current position.</br>
+  orange lines represent that current position will be infect with blue points. </br>
   <img src="https://user-images.githubusercontent.com/103729404/165036143-5b399aef-147d-4216-9d76-894ca2fdde5b.png"/>
   <img src="https://user-images.githubusercontent.com/103729404/165036157-7967692c-28ed-4db9-80ab-0a3e6d36df31.png"/>
   <img src="https://user-images.githubusercontent.com/103729404/165036167-6f4abec0-6036-45b9-b4f2-6f9687706833.png"/>
