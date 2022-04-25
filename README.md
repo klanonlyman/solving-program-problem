@@ -27,8 +27,8 @@ Here are some of my experience with solving program problems
       <td>O(MN)</td>
    </tr>
    <tr>
-      <td><a href="">Another Treasure</a></td>
-      <td><a href="">C++</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Another%20Treasure/Another%20Treasure.md">Another Treasure</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Another%20Treasure/AnotherTreasure.cpp">C++</a></td>
       <td>O(N^2)</td>
    </tr>
    <tr>
