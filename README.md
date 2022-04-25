@@ -17,8 +17,8 @@ Here are some of my experience with solving program problems
       <td>O(Nlog(N))</td>
    </tr>
    <tr>
-      <td><a href="">Treasure</a></td>
-      <td><a href="">C++</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Treasure/treasure.cpp">Treasure</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Treasure/treasure.cpp">C++</a></td>
       <td>O(N*log(K)*U) note: K表示商品總數量</td>
    </tr>
    <tr>
