@@ -27,11 +27,12 @@
   <img src="https://user-images.githubusercontent.com/103729404/165036143-5b399aef-147d-4216-9d76-894ca2fdde5b.png"/>
   <img src="https://user-images.githubusercontent.com/103729404/165036157-7967692c-28ed-4db9-80ab-0a3e6d36df31.png"/>
   <img src="https://user-images.githubusercontent.com/103729404/165036167-6f4abec0-6036-45b9-b4f2-6f9687706833.png"/>
-  <img src="https://user-images.githubusercontent.com/103729404/165036182-3c64b392-da02-43f0-81a2-d8c0aa8b16af.png"/>
+  <img src="https://user-images.githubusercontent.com/103729404/165038191-78dcad63-772a-47f1-878b-7c6a63fdf35c.png"/>
+  </br>
   First , x-y axis will be sorted. (because DP solving need.)
   Second , because axises has been sorted , so the maximum number of treasure you just need to find the range within the yellow point.
 </p>
-<h3Time complexity analysis</h3>
+<h3>Time complexity analysis</h3>
 <p>
   First , time complexity of sorting is O(nlogn).
   Second ,find the range within each yellow point , its time complexity is o(n^2).
