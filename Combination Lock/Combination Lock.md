@@ -41,10 +41,9 @@
 </p>
 <h3>Problem-solving skills</h3>
 <p>
-  This problem is similar to the minimum edit distance problem ,but it does not need to consider cost.</br>
-  So you only need to consider the factor of cost. 
+  This problem is similar to the minimum edit distance problem ,but it does not need to consider cost, so you only need to add the cost factor.
 </p>
 <h3>Time complexity analysis</h3>
 <p>
-  Its time complexity is O(mn) as same as Minimum Edit Distance problem.
+  Its time complexity is O(mn), the same as the minimum edit distance problem.
 </p>
