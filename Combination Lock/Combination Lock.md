@@ -1,27 +1,32 @@
 <h3>Description</h3>
 <p>
    You have found that the treasure you locked in your dorm closet has beed stolen , and obviously the password has beed leaked, 
-  so oyu need to change the password of the combination lock.
-  The original password S consists of lowercase letters , eeach letter on the lock is an rotating disc with inscribed letters from
-   a to z.
-  To change from th eoriginal password S to the new password T , you have to pay an maintenance fee based on the operations you tell.
+  so oyu need to change the password of the combination lock.</br>
+  The original password S consists of lowercase letters , each letter on the lock is an rotating disc with inscribed letters from
+   a to z.</br>
+  To change from th eoriginal password S to the new password T , you have to pay an maintenance fee based on the operations you tell.</br>
   There are three types of operation you can perform:
-    cost a dollars to add a disc with arbitrary letter at any position.
-    cost b dollars to remove a disc.
-    cost c dollars to rotate a disc by one tick, that is, change the letter to an adjacent letter.
-  Each operation can be performed any number of times.
+  <ul>
+   <li>cost a dollars to add a disc with arbitrary letter at any position.</li>
+   <li>cost b dollars to remove a disc.</li>
+   <li>cost c dollars to rotate a disc by one tick, that is, change the letter to an adjacent letter.</li>
+  </ul>
+  Each operation can be performed any number of times.</br>
+  
   For example:
-    Changing from abc to abcd will cost a dollars to adding the letter d.
-    Changing from abc to ab will cost b dollars to removing the letter c.
-    Changing from abc to abe will cost a+b dollars by removing the letter c and adding the letter e , or cost c*2 dollars to change a letter from c to e.
-Note that the inscribed letters on the discs form a cycle, so a and z are considered adjacent.
-Given the original password S and the target password T, calculate the minimum cost you have to pay.
+  <ul>
+   <li>Changing from abc to abcd will cost a dollars to adding the letter d.</li>
+   <li>Changing from abc to ab will cost b dollars to removing the letter c.</li>
+   <li>Changing from abc to abe will cost a+b dollars by removing the letter c and adding the letter e , or cost c*2 dollars to change a letter from c to e.</li>
+  </ul>
+   Note that the inscribed letters on the discs form a cycle, so a and z are considered adjacent.</br>
+   Given the original password S and the target password T, calculate the minimum cost you have to pay.
 </p>
 <h3>Input</h3>
 <p>
-  The first line contains three space-separated integers a, b and c.
-  The second line contains a string, the original password S.
-  The third line also contains a string, the target password T.
+  The first line contains three space-separated integers a, b and c.</br>
+  The second line contains a string, the original password S.</br>
+  The third line also contains a string, the target password T.</br>
   For all test data, it is guaranteed:
    <ul>
      <li>1 <= |S| <= 5*10^3</li>
