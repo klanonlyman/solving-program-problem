@@ -9,7 +9,7 @@
 </p>
 <h3>Input</h3>
 <p>
-  Input has only one line, which contains an integer d.
+  Input has only one line, which contains an integer d.</br>
   For all test data, it is guaranteed:
   <ul>
     <li>0 <= d <= 10^18</li>
@@ -49,10 +49,10 @@
       <td>36</td>
     </tr>
   </table>
-  You can known that the answer is sum from 1 to 2^d by observe the table.
+  By observing the table, you will know that the answer is the sum of 1 to 2^d.
 </p>
 <h3>Time complexity analysis</h3>
 <p>
-  This equation (1+2+3....+2^d) can be converted to 2^(2*d-1)+2^(d-1),
-  So the complexity is O(log(2*D)) <- use fast power methods.
+  First, this equation (1+2+3....+2^d) can be converted to 2^(2*d-1)+2^(d-1).</br>
+  Finally, he complexity is O(log(2*D)) <- use fast power methods.
 </p>
