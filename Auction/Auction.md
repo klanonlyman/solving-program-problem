@@ -23,11 +23,11 @@ For example, in sample 1 we can choose various subsequence from [2,1,3,7,5], suc
 </p>
 <h3>Problem-solving skills</h3>
 <p>
-  first , you must known sotck problem , you can refer <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/">it</a>
-  second , stock problem can be transfer to this problem , the input series will be product to -1 .(buy stock->income) (sell stock->cost)
-  third , a transaction is buy and sell in stock , so this problem whether you buy or sell you must record.
+  First , you must know about stock issues, you can refer to <a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/">here</a>. </br>
+  Second , this problem  can be converted to  the stock issues , The input value will be multiplied by -1 .(buy stock->income) (sell stock->cost) </br>
+  Third , buying and selling stocks is a transaction,so whether it is a buy or a sell must be recorded. 
 </p>
 <h3>Time complexity analysis</h3>
   <p>
-    Time complexity of stock problem is O(n). So this problem is also.
+    The time complexity of the stock problem is O(n). So this problem is too.
   </p>
