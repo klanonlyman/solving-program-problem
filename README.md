@@ -22,8 +22,8 @@ Here are some of my experience with solving program problems
       <td>O(N*log(K)*U) note: K表示商品總數量</td>
    </tr>
    <tr>
-      <td><a href="">Combination Lock</a></td>
-      <td><a href="">C++</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Combination%20Lock/Combination%20Lock.md">Combination Lock</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Combination%20Lock/CombinationLock.cpp">C++</a></td>
       <td>O(MN)</td>
    </tr>
    <tr>
