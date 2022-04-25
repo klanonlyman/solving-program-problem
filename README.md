@@ -13,27 +13,27 @@ Here are some of my experience with solving program problems
    </tr>
    <tr>
       <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Football%20Players/Football%20Players.md">Football Players</a></td>
-      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Football%20Players/Football%20Players.md">C++</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem-/blob/main/Football%20Players/football.cpp">C++</a></td>
       <td>O(Nlog(N))</td>
    </tr>
    <tr>
-      <td>Treasure</td>
-      <td>C++</td>
+      <td><a href="">Treasure</a></td>
+      <td><a href="">C++</a></td>
       <td>O(N*log(K)*U) note: K表示商品總數量</td>
    </tr>
    <tr>
-      <td>Combination Lock</td>
-      <td>C++</td>
+      <td><a href="">Combination Lock</a></td>
+      <td><a href="">C++</a></td>
       <td>O(MN)</td>
    </tr>
    <tr>
-      <td>Another Treasure</td>
-      <td>C++</td>
+      <td><a href="">Another Treasure</a></td>
+      <td><a href="">C++</a></td>
       <td>O(N^2)</td>
    </tr>
    <tr>
-      <td>Auction</td>
-      <td>C++</td>
+      <td><a href="">Auction</a></td>
+      <td><a href="">C++</a></td>
       <td>O(N)</td>
    </tr>
    
