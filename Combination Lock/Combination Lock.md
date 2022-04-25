@@ -41,7 +41,7 @@
 </p>
 <h3>Problem-solving skills</h3>
 <p>
-  This problem similar to Minimum Edit Distance problem ,but it is not factor of cost.
+  This problem is similar to the minimum edit distance problem ,but it does not need to consider cost.</br>
   So you only need to consider the factor of cost. 
 </p>
 <h3>Time complexity analysis</h3>
