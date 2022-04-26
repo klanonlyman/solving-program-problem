@@ -41,5 +41,10 @@ Here are some of my experience with solving program problems
       <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Even%20number%20of%200's/FSM.asm">X86</a></td>
       <td>O(N)</td>
    </tr>
+      <tr>
+      <td><a href="">Fibonacci series</a></td>
+      <td><a href="">X86</a></td>
+      <td>O(N)</td>
+   </tr>
    
 </table>
