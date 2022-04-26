@@ -32,8 +32,13 @@ Here are some of my experience with solving program problems
       <td>O(N^2)</td>
    </tr>
    <tr>
-      <td><a href="The time complexity of the stock problem is O(n). So this question is too.">Auction</a></td>
-      <td><a href="The time complexity of the stock problem is O(n). So this question is too.">C++</a></td>
+      <td><a href="">Auction</a></td>
+      <td><a href="">C++</a></td>
+      <td>O(N)</td>
+   </tr>
+   <tr>
+      <td><a href="">Even number of 0's</a></td>
+      <td><a href="">X86</a></td>
       <td>O(N)</td>
    </tr>
    
