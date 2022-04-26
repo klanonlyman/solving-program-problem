@@ -38,12 +38,12 @@ Here are some of my experience with solving program problems
    </tr>
    <tr>
       <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Even%20number%20of%200's/even%20number%20of%200's.md">Even number of 0's</a></td>
-      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Even%20number%20of%200's/FSM.asm">X86</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Even%20number%20of%200's/FSM.txt">X86</a></td>
       <td>O(N)</td>
    </tr>
       <tr>
-      <td><a href="">Fibonacci series</a></td>
-      <td><a href="">X86</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Fibonacci%20series/Fibonacci%20series.md">Fibonacci series</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Fibonacci%20series/Fibonacci%20series.txt">X86</a></td>
       <td>O(N)</td>
    </tr>
    
