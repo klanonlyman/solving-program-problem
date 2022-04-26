@@ -46,5 +46,19 @@ Here are some of my experience with solving program problems
       <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Fibonacci%20series/Fibonacci%20series.txt">X86</a></td>
       <td>O(N)</td>
    </tr>
-   
+         <tr>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/divider/divider.md">Divider</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/divider/divider.asm">MIPS</a></td>
+      <td>O(N)</td>
+   </tr>
+   <tr>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/reversed/reversed.md">Reverse</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/reversed/reverse.asm">MIPS</a></td>
+      <td>O(N)</td>
+   </tr>
+   <tr>pow
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/power/power.md">Power</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/power/pow.asm">MIPS</a></td>
+      <td>O(N)</td>
+   </tr>
 </table>
