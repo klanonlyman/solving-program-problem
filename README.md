@@ -32,8 +32,8 @@ Here are some of my experience with solving program problems
       <td>O(N^2)</td>
    </tr>
    <tr>
-      <td><a href="">Auction</a></td>
-      <td><a href="">C++</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Auction/Auction.md">Auction</a></td>
+      <td><a href="https://github.com/klanonlyman/solving-program-problem/blob/main/Auction/auction.cpp">C++</a></td>
       <td>O(N)</td>
    </tr>
    <tr>
